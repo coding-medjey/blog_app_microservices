@@ -5,5 +5,5 @@ metadata:
 spec:
   containers:
     - name: posts
-      image: bhirahatees/posts
+      image: bhirahatees/client
       imagePullPolicy: Never
